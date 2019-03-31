@@ -1,0 +1,3 @@
+author = me
+version = 0.1
+displayName = Lucario Armor Mod
